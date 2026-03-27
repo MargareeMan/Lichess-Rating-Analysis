@@ -1,0 +1,11 @@
+---
+title: "Lichess Rating Change Data Analysis"
+---
+
+## Welcome
+
+This site will hold my analysis of Lichess rating retention and Elo movement between 2016 and 2026.
+
+## First notes
+
+I am building this analysis step by step using R and Quarto.
